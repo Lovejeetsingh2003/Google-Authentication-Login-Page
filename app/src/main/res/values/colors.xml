@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="full_green">#186049</color>
+    <color name="eden">#247158</color>
+    <color name="trade_wind">#6AB29B</color>
+    <color name="dawn_pink">#E4D5C7</color>
+    <color name="almond_frost">#95877A</color>
+    <color name="red">#FF0000</color>
+</resources>
